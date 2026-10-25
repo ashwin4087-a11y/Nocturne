@@ -1,0 +1,6 @@
+{
+  "name": "NOCTURNE",
+  "description": "Uncertainty-aware transit intelligence and adaptive destination alarm for long-distance travel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

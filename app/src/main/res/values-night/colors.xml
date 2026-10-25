@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_canvas">#0A1522</color>
+    <color name="color_surface">#0F2236</color>
+    <color name="color_ink">#E8EEF4</color>
+    <color name="color_muted">#9DB0C4</color>
+    <color name="color_border">#24405C</color>
+    <color name="color_navy">#5E8DBD</color>
+    <color name="color_navy_deep">#0C2A47</color>
+    <color name="color_chamber">#050E19</color>
+    <color name="color_chamber_edge">#030911</color>
+    <color name="color_ok">#56A67A</color>
+    <color name="color_ok_text">#7FD1A3</color>
+    <color name="color_ok_bg">#10281E</color>
+    <color name="color_warn">#F4B942</color>
+    <color name="color_warn_text">#F4B942</color>
+    <color name="color_warn_bg">#2B2110</color>
+    <color name="color_danger">#E07A7A</color>
+    <color name="color_danger_text">#F09A9A</color>
+    <color name="color_danger_bg">#2D1717</color>
+    <color name="color_shadow_ink">#000000</color>
+</resources>

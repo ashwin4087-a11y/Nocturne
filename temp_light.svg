@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="squircle">
+      <rect x="0" y="0" width="512" height="512" rx="112" ry="112" />
+    </clipPath>
+  </defs>
+  <!-- Background -->
+  <rect width="512" height="512" rx="112" fill="#FFFFFF" />
+
+  <!-- NOCTURNE Isometric Folded Transit Ribbon Symbol -->
+  <g id="nocturne_symbol">
+    <!-- Top-left Amber Arm -->
+    <path d="M 40,240 
+             C 40,225 50,215 65,208 
+             L 215,130 
+             L 215,225 
+             L 65,302 
+             C 48,310 40,300 40,285 Z" 
+          fill="#F5A623" />
+    
+    <!-- Top Fold Highlight / Shadow Crease -->
+    <path d="M 215,130 
+             L 235,120 
+             L 235,215 
+             L 215,225 Z" 
+          fill="#D98A16" />
+
+    <!-- Top-Right Navy Vertical Face -->
+    <path d="M 235,120 
+             L 320,165 
+             C 345,178 355,195 355,225 
+             L 355,290 
+             L 270,245 
+             C 255,237 245,228 235,215 Z" 
+          fill="#14213D" />
+
+    <!-- Center White Connecting Fold -->
+    <path d="M 215,225 
+             L 355,290 
+             L 305,315 
+             L 165,250 Z" 
+          fill="#FFFFFF" />
+
+    <!-- Bottom-Left Navy Face -->
+    <path d="M 165,250 
+             C 150,258 142,275 142,305 
+             L 142,345 
+             C 142,375 158,395 185,400 
+             L 305,395 
+             L 305,315 
+             L 205,360 
+             C 195,365 190,360 190,350 
+             L 190,310 
+             C 190,300 195,295 205,290 Z" 
+          fill="#14213D" />
+
+    <!-- Bottom-Right Emerald Green Arm -->
+    <path d="M 305,315 
+             L 450,238 
+             C 465,230 475,240 475,255 
+             L 475,300 
+             C 475,315 465,325 450,332 
+             L 305,405 Z" 
+          fill="#2E9D66" />
+  </g>
+</svg>

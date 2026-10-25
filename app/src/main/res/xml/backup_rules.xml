@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Full backup rules for legacy Android versions (API < 31).
+    Excludes local database and SharedPreferences to prevent travel history leakage.
+-->
+<full-backup-content>
+    <exclude domain="database" path="." />
+    <exclude domain="sharedpref" path="." />
+    <exclude domain="root" path="." />
+</full-backup-content>
